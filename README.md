@@ -3,7 +3,11 @@
 <head> 
 <link> 
 
-
+<style>
+body {
+  background-color: #92a8d1;
+}
+</style>
 <title>My Portfolio</title>
 <link rel="stylesheet" <a href="style.css">
 
